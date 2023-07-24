@@ -1,2 +1,2 @@
 # Text-Summarization-NLP-Project
-The primary goal of the Text Summarization NLP Project is to develop a robust and accurate summarization system that can efficiently process various types of textual content, including articles, news reports, research papers, and more.
+The Text Summarization NLP Project is an innovative and advanced natural language processing (NLP) initiative designed to automate the process of generating concise and coherent summaries from lengthy texts. This project harnesses the power of cutting-edge machine learning algorithms and deep learning techniques to extract key information and condense it into a shorter, easy-to-understand format.
